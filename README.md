@@ -1,6 +1,8 @@
 # Water Shader with Buoyancy in Godot
 This repository contains the code and resources for creating a water shader with buoyancy effects in the Godot 4 Engine. The project demonstrates how to use Gerstner waves to simulate realistic water surfaces and incorporate buoyancy to make objects like boats float and react naturally to the wave movements.
 
+[Blog Post](https://seacreaturegame.com/posts/gerstner-waves-with-buoyancy-godot)
+
 ## Features
 Gerstner Waves Simulation: Utilizes mathematical properties to accurately model ocean wave movements.
 Buoyancy Effects: Objects such as boats float and react dynamically to the wave patterns.
